@@ -27,4 +27,4 @@ mahalanobis
 ![](http://latex.codecogs.com/gif.latex?k(x,y)=-\\frac{\\delta}{m}(x_i-x_j)^{T}\\Sigma^{-1}(x_i-x_j))
 
 
-http://pan.baidu.com/s/1o7L0HHS
+http://pan.baidu.com/s/1o7L0HHS 2.pdf 3.pdf
