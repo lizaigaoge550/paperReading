@@ -25,5 +25,6 @@
 ##DLA
 * 先对数据进行PCA降维
 ![](http://latex.codecogs.com/gif.latex?(x_1,x_2,.....)) -> ![](http://latex.codecogs.com/gif.latex?(y_1,y_2....))
+* 然后找出k1个和![](http://latex.codecogs.com/gif.latex?y_i)同类的数据点，我们相tong'ying'shi
 
 
