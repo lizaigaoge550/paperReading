@@ -6,3 +6,4 @@
 * 看C中的那个点包含的点多, 把包含点多的那个点当作一个初始的聚类中心, 并且移除，重复k次(聚k类)，找到k个聚类点，
 * 把找到的这k个点,当作初始化的类中心，用k-means.
 
+D2 = scipy.array([min([scipy.inner(c-x,c-x) for c in C]) for x in X]) 用于算第二步
